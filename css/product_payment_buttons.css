@@ -1,0 +1,58 @@
+.paydog-button {
+    font-family: Inter, sans-serif !important;
+    border: 1px solid #ff8000;
+    border-radius: 5px;
+    background-color: #ff8000;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+}
+.paydog-bank {
+    display: none;
+    text-align: left;
+    vertical-align: top;
+    border-radius: 5px;
+    background-color: #FFF;
+    color: #333;
+    font-size: 16px;
+    padding: 10px;
+}
+.paydog-bank-select {
+    text-align: left;
+    background-color: #FFF;
+    color: #333;
+    font-size: 16px;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.paydog-product-checkout-button > img {
+    margin: auto 10px auto auto
+}
+.paydog-product-checkout-button > span {
+    margin: auto auto auto 0
+}
+.paydog-product-checkout-button {
+    border: 1px solid #ff8000;
+    border-radius: 5px;
+    background-color: #ff8000;
+    color: #fff;
+    display: flex;
+    align-items:center;
+    text-align: center;
+    padding: 10px 5px;
+    font-size: 20px;
+
+}
+
+
+.paydog-submit{
+    border: 1px solid #ff8000;
+    border-radius: 5px;
+    background-color: #ff8000;
+    color: #fff;
+    text-align: center;
+
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px 0px 0px 0px;
+}
